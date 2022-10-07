@@ -31,5 +31,5 @@ Edit profile |
 :-------------------------:
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/309748133_5449150435166506_1013328953552960713_n.png?stp=dst-png_p403x403&_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_ohc=0ksCw31qq6IAX9ixKBv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJUDww4KZEChPTrBGqL1dsmSEyf7iH-gUyg1x1cUBcMaA&oe=63643A71)
 
-However, there are some small errors such as feature not updated when accesstoken is expired. I'm trying to update this day by day.
+However, there are some small errors such as feature not updated when accesstoken is expired. To see the updates, we need to turn back to dashboard and login again to get the token that JWT verifies. I'm trying to fix these mistakes day by day.
 
