@@ -8,6 +8,6 @@ User checked successfully            |  User checked errors
 :-------------------------:|:-------------------------:
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/309001554_2629819937152692_5095663044191879828_n.png?stp=dst-png_p403x403&_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_ohc=xs8anVjN-kUAX8GB0Nh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJTZPKlpXImNfLu0xM4UrwrXCV0okriEVBZ9gxyBTTBYA&oe=63651B2C)  |  ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/309598827_1053561495311641_1900566816124113954_n.png?stp=dst-png_s403x403&_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_ohc=ce6Zzg4PF-YAX92bpe4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLWDQp7iCioh7RmPrvIzDEPzlcH7ixRh8eBgFRIlrwPXg&oe=6364224A)
 
-Dashboard
+User login successfully, redirect to Dashboard
 
 ![](https://scontent.xx.fbcdn.net/v/t1.15752-9/308201875_662679908476933_2536176448551362510_n.png?stp=dst-png_p403x403&_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_ohc=8eLPeWlfCBIAX9GnVsL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKyr2RdJDF9LrnM5rPDBREwdM1PV3RNznrn2ChGZDVlDQ&oe=63666247)
