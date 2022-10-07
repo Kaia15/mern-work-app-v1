@@ -1,0 +1,9 @@
+export const homeImg = "https://i.pinimg.com/564x/ff/3c/1a/ff3c1aad64bce22e47139cf177d3217a.jpg"
+export const signupImg = "https://images.pexels.com/photos/5238645/pexels-photo-5238645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const imgSky = "https://images.pexels.com/photos/8307901/pexels-photo-8307901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+export const remindImg = 'https://i.pinimg.com/564x/fe/99/db/fe99db35adff29e1d4b776a67028b6d6.jpg'
+export const messImg = 'https://i.pinimg.com/564x/d9/94/50/d99450d488cba449ee63d32f316af83a.jpg'
+export const timerImg = 'https://i.pinimg.com/564x/61/61/39/616139636350ec1cb1fc90882938f983.jpg'
+export const taskImg = 'https://i.pinimg.com/564x/0d/e3/48/0de3480c282be54bfae7226b68d5cfcd.jpg'
+export const musicImg = 'https://i.pinimg.com/564x/35/b7/65/35b765ce554dfc2d964d3e16703f1f66.jpg'
+export const friendImg = 'https://i.pinimg.com/564x/6c/05/a2/6c05a22dcab24e12d39f0688c0809356.jpg'

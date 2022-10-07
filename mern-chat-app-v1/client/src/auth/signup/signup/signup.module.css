@@ -1,0 +1,21 @@
+
+.container {
+    padding: 20vh 36vw;
+}
+
+.input {
+    margin: 30px;
+    height: 3vh;
+    width: 20vw;
+}
+
+.input_error {
+    margin: 30px;
+    height: 3vh;
+    width: 20vw;
+    background-color: darksalmon;
+}
+
+.label {
+    margin-left: 20vw;
+}

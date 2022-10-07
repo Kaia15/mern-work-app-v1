@@ -1,0 +1,9 @@
+.calendarContainer {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}

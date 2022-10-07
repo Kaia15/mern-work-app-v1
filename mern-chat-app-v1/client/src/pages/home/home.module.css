@@ -1,0 +1,18 @@
+* {
+    color: black;
+}
+
+.container {
+    background-image: "url(../../assets/pexels-suzy-hazelwood-1629236.jpg)";
+}
+
+.header_container {
+    margin-left: 10vw;
+}
+
+.header {
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5.0rem;;
+    text-align: left;
+    margin: 120px 0px 20px 0px;
+}
