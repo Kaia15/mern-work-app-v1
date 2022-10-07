@@ -16,3 +16,6 @@ Open message board, this feature uses Socket-io to send messages immediately and
 Message Board            |  Create new box chat | Send message
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://scontent.fosu1-1.fna.fbcdn.net/v/t1.15752-9/310708482_5126862644087056_1704720736534515004_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QenFaMMZsWUAX8FWjeC&_nc_ht=scontent.fosu1-1.fna&oh=03_AVL7fuO8_9PSRyt-UREPgglPV296L2CKyLXwAL8V3zBe6Q&oe=63671849)  |  ![](https://scontent.fosu1-1.fna.fbcdn.net/v/t1.15752-9/310454113_919239665701053_1167368207478862259_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=_Zgo623Xrh4AX_PTTi_&_nc_ht=scontent.fosu1-1.fna&oh=03_AVL3xCcL1oDJWQOlE66-vLLl8h_HZDCHZFXtUDxIGxYOBg&oe=6366574A) | ![](https://scontent.fosu1-1.fna.fbcdn.net/v/t1.15752-9/307539696_348762740775465_4881398622318784368_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JJAD9HvUr8YAX_UbVcF&_nc_ht=scontent.fosu1-1.fna&oh=03_AVJuQsIx24klTra_dk5ooZuIyG9HzdQ7CW3fa6P30Cq4gQ&oe=6367C0F2)
+
+Task board
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/309368444_474016548109884_1815488976222141462_n.png?stp=dst-png_p403x403&_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_ohc=ntEGkyyHB7IAX_MnO9f&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLI3a5q0NF_qnttjtk_4Drl8ypeyCF2v4VhuZmIOFREDw&oe=636538E1)
